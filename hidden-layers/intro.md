@@ -1,1 +1,0 @@
-This scenario is a continuation of creating the Deep Neural Network using Python numpy library. This time using the knowledge from the previous steps, we will add another layer to the network architecture.

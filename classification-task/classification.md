@@ -1,9 +1,0 @@
-[Classificación](https://en.wikipedia.org/wiki/Statistical_classification)es uno de los problemas clasicos en [Machine Learning](https://en.wikipedia.org/wiki/Machine_learning). Como todas las tareas de AA, se basa en los datos históricos. Suponiendo que los datos contienen el patrón subyacente, el algoritmo se _entrena_ basándose en ellos. Una vez finalizado el aprendizaje, se supone que el modelo resultante puede _generalizar_ las reglas integradas y predecir los nuevos ejemplos.
-
-La tarea principal del problema de clasificación es _encontrar las etiquetas correctas_ para los ejemplos presentados. Como se mencionó, para entrenar adecuadamente el modelo debemos tener los registros pasados, para que los algoritmos puedan ajustar sus parámetros. La clasificación es un ejemplo de aprendizaje supervisado, lo que significa que los datos históricos deben contener etiquetas a lo largo de las características.
-
-En este escenario, vamos a clasificar los puntos que se muestran en la siguiente imagen. Puede tratarlos como datos geométricos. Los coeficientes _ (x1, x2) _ son las características de los ejemplos, mientras que el color indica las etiquetas (rojo y azul).
-
-<img src="/basiafusinska/courses/deep-learning-with-tensorflow/classification-task/assets/dataset.png" alt="Dataset">
-
-En este ejemplo, tenemos solo dos clases que esperamos que el modelo asigne los registros. Este tipo a menudo se denomina clasificación binaria. Los datos tienen solo dos características, por lo que son fáciles de visualizar. Este no es el caso de la mayoría de los problemas del mundo real, donde podemos esperar incluso miles de dimensiones.

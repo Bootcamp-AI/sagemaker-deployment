@@ -1,1 +1,0 @@
-En este escenario, aprendimos cómo extraer imágenes de Docker, enumerarlas y crear contenedores basados en ellas.

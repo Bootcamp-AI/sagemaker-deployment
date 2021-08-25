@@ -1,1 +1,0 @@
-The previous scenario walked you through the process of creating and training the neural network. The simple architecture is not sufficient for more complex data. Here we will build a neural network that has the hidden layer to accomplish the task of classifying the data that are not linearly separable.
